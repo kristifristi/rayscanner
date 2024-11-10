@@ -1,0 +1,10 @@
+how to texture:
+I'm going to make square plane textures work
+
+necessary components:
+	-file reading
+	-parsing ppm (kind of)
+	-writing into a valuemap
+	-plane intersection math
+	-vector projection (probably)
+	
